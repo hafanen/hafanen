@@ -10,14 +10,14 @@
 
 ## 🛠️ Technologies I'm working with:
 - **Python** 🐍
-- **SQL** *(currently learning)*
-- **JavaScript** *(currenly learning)*
+- **SQL** 
 - **Selenium, BeautifulSoup**
 - **Git & GitHub**
 
 ---
 
 ## 📌 Projects on my GitHub:
+- 🍽 **Restaurant Order Management** (Python Project)
 - 🔎 **PS5 Game Price Web Scraper** *(coming soon)*
 - 🌤️ **Weather Tracker** *(coming soon)*
 - 💱 **Currency Converter** *(coming soon)*
