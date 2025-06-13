@@ -11,7 +11,8 @@
 ## 🛠️ Technologies I'm working with:
 - **Python** 🐍
 - **SQL** 
-- **Selenium, BeautifulSoup**
+- **HTML & CSS**
+- **JavaScript**
 - **Git & GitHub**
 
 ---
